@@ -9,7 +9,7 @@ layout: default
 
 <ul>
 {% for item in group[1].items %}
-<li><a href='/writings/{{group[0]}}/{{item[0]}}'>{{item[1].title}}</a></li>
+<li><a href='writings-{{item[0]}}.html'>{{item[1].title}}</a></li>
 {% endfor %}
 </ul>
 

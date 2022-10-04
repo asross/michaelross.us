@@ -9,6 +9,6 @@ layout: default
 
 My strong suit lies in transforming complex concepts and technical jargon into compelling ideas and messages that resonate with non-technical and general audiences.
 
-Writing services I offer include speeches, opinion pieces, reports, grant proposals, fact sheets, talking points and news releases, among other writing and editing services.
+[Writing services](writings.html) I offer include speeches, opinion pieces, reports, grant proposals, fact sheets, talking points and news releases, among other writing and editing services.
 
-If you are interested in working together, please [contact me](/contact).
+If you are interested in working together, please [contact me](contact.html).
