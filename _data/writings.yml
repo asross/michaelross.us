@@ -1,0 +1,37 @@
+---
+speeches:
+  title: Speeches
+  items:
+    princeton-speech:
+      title: 'Conservation in a Code Orange World: Why the Environment Matters to Security.'
+    brown-commencement-speech:
+      title: A Few Thoughts on Bees, Fungi, and the Importance of Perspective in a Code Orange World.
+    brown-pax-speech:
+      title: Of Mosquitos and Mental Fences.
+    everglades-speech:
+      title: Conserving the Everglades.
+op-eds:
+  title: Op-Eds
+  items:
+    endangered-species-act-oped:
+      title: Saving the Endangered Species Act – from Friend and Foe Alike
+    poaching-oped:
+      title: The Illegal Wildlife Trade in Central Africa
+    cryobio-oped:
+      title: Saving Cells is No Way to Save a Species
+    arctic-refuge-oped:
+      title: Arctic Refuge
+reports:
+  title: Reports
+  items:
+    2008-greenprint-report:
+      title: 'Leading the World Toward a Safer and Sustainable Future: Greenprint for a New Administration'
+    arctic-drilling-report:
+      title: 'Drilling for Oil in the Arctic: Too Soon, Too Risky'
+misc:
+  title: Misc.
+  items:
+    ross-cronkite-foreword:
+      title: Living Planet Foreword for Walter Cronkite
+    kingdom-of-rarities:
+      title: 'Kingdom of Rarities Review: The Art of Pausing'
