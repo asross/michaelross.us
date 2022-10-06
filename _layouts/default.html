@@ -14,23 +14,23 @@
 </head>
 
 <body class="home page-template-default page has-featured-image">
-	
+
 <div class="wrapper">
   <div class="sidebar">
     <div class="blog-header">
       <h1 class="blog-title">
         <a href="index.html" title="Michael Ross" rel="home">Michael Ross</a>
       </h1>
-      
+
       <h3 class="blog-description">Washington DC based writer and journalist. 17 years of experience in conservation communication backed by nearly 25 years in journalism, both as a foreign correspondent and a congressional reporter for the Los Angeles Times.</h3>
     </div> <!-- /blog-header -->
-    
+
     <div class="nav-toggle toggle">
       <p>
         <span class="show">Show menu</span>
         <span class="hide">Hide menu</span>
       </p>
-    
+
       <div class="bars">
         <div class="bar"></div>
         <div class="bar"></div>
@@ -38,21 +38,21 @@
         <div class="clear"></div>
       </div>
     </div> <!-- /nav-toggle -->
-    
+
     <div class="blog-menu">
       <ul class="navigation">
         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item {% if page.url == '/' %}current-menu-item current-page-item{% endif %}"><a href="index.html">Home</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page {% if page.title == 'CV' %}current-menu-item current-page-item{% endif %}"><a href="cv.html">CV</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page {% if page.title == 'CV' %}current-menu-item current-page-item{% endif %}"><a href="uploads/michael-ross-cv.pdf">CV</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page {% if page.url contains 'writings' %}current-menu-item current-page-item{% endif %}"><a href="writings.html">Writing Samples</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page {% if page.title == 'Contact' %}current-menu-item current-page-item{% endif %}"><a href="contact.html">Contact</a></li>
      </ul>
      <div class="clear"></div>
     </div> <!-- /blog-menu -->
-    
+
     <div class="mobile-menu" style="display: none;">
        <ul class="navigation">
         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item"><a href="index.html">Home</a></li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="cv.html">CV</a></li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="uploads/michael-ross-cv.pdf">CV</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="writings.html">Writing Samples</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="contact.html">Contact</a></li>
        </ul>
@@ -63,36 +63,36 @@
     <div class="posts">
       <div class="post">
         <div class="post-inner">
-                              
+
           {% if page.title %}
             <div class="post-header">
               <h2 class="post-title">{{ page.title }}</h2>
             </div> <!-- /post-header -->
           {% endif %}
-                          
+
           <div class="post-content">
             {{ content }}
           </div> <!-- /post-content -->
         </div> <!-- /post-inner -->
       </div> <!-- /post -->
     </div> <!-- /posts -->
-    
+
     <div class="clear"></div>
 
     <div class="footer section large-padding bg-dark">
       <div class="clear"></div>
     </div> <!-- /footer -->
-      
+
     <div class="credits">
       <div class="credits-inner">
         <p class="credits-left">
         © <span id='current-year'></span> <a href="index.html" title="Michael Ross">Michael Ross</a>
         </p>
-        
+
         <p class="credits-right">
           <span>Theme by <a href="http://www.andersnoren.se">Anders Noren</a></span> — <a title="To the top" class="tothetop">Up ↑</a>
         </p>
-        
+
         <div class="clear"></div>
       </div> <!-- /credits-inner -->
     </div> <!-- /credits -->

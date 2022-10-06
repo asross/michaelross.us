@@ -1,37 +1,33 @@
 ---
-speeches:
-  title: Speeches
+- title: Speeches
   items:
-    princeton-speech:
+    - cname: princeton-speech
       title: 'Conservation in a Code Orange World: Why the Environment Matters to Security.'
-    brown-commencement-speech:
+    - cname: brown-commencement-speech
       title: A Few Thoughts on Bees, Fungi, and the Importance of Perspective in a Code Orange World.
-    brown-pax-speech:
+    - cname: brown-pax-speech
       title: Of Mosquitos and Mental Fences.
-    everglades-speech:
+    - cname: everglades-speech
       title: Conserving the Everglades.
-op-eds:
-  title: Op-Eds
+- title: Op-Eds
   items:
-    endangered-species-act-oped:
+    - cname: endangered-species-act-oped
       title: Saving the Endangered Species Act – from Friend and Foe Alike
-    poaching-oped:
+    - cname: poaching-oped
       title: The Illegal Wildlife Trade in Central Africa
-    cryobio-oped:
+    - cname: cryobio-oped
       title: Saving Cells is No Way to Save a Species
-    arctic-refuge-oped:
+    - cname: arctic-refuge-oped
       title: Arctic Refuge
-reports:
-  title: Reports
+- title: Reports
   items:
-    2008-greenprint-report:
+    - cname: 2008-greenprint-report
       title: 'Leading the World Toward a Safer and Sustainable Future: Greenprint for a New Administration'
-    arctic-drilling-report:
+    - cname: arctic-drilling-report
       title: 'Drilling for Oil in the Arctic: Too Soon, Too Risky'
-misc:
-  title: Misc.
+- title: Misc.
   items:
-    ross-cronkite-foreword:
+    - cname: ross-cronkite-foreword
       title: Living Planet Foreword for Walter Cronkite
-    kingdom-of-rarities:
+    - cname: kingdom-of-rarities
       title: 'Kingdom of Rarities Review: The Art of Pausing'
